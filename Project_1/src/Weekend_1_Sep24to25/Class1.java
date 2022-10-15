@@ -8,6 +8,7 @@ public class Class1
 	public void display1()
 	{
 		System.out.println("Welcome to all of you");
+		System.out.println(" change");
 	}
 	
 	public void display2()
